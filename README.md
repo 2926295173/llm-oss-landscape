@@ -1,10 +1,10 @@
 # Open Source LLM Landscape and Trends
 
 **Report 1.0**
-🌐️ [English Report](/reports/250527_llm_landscape/250527_llm_report_en.md) | [中文报告](/reports/250527_llm_landscape/250527_llm_report_cn.md)
+🌐️ [English Report](https://medium.com/@ant-oss/open-source-llm-development-2025-landscape-trends-and-insights-4e821bceba68) | [中文报告](https://mp.weixin.qq.com/s/2xwyGPZppdYmU_cDX3Xhyg)
 
 **Report 2.0**
-🌐️ [English Report](/reports/250913_llm_landscape/250913_llm_report_en.md) | [中文报告](/reports/250913_llm_landscape/250913_llm_report_cn.md)
+🌐️ [English Report](https://medium.com/@ant-oss/open-source-llm-development-landscape-2-0-2025-revisited-d18cbf0a49c2) | [中文报告](https://mp.weixin.qq.com/s/EBCZUq61xv49MtFVMiwrHg)
 
 ![LLM Development Landscape](/reports/250913_llm_landscape/figures/llm_development_landscape.png)
 
